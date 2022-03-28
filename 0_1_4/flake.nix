@@ -11,7 +11,6 @@
   inputs.src-csvtools-0_1_4.ref   = "refs/tags/0.1.4";
   inputs.src-csvtools-0_1_4.owner = "andreaferretti";
   inputs.src-csvtools-0_1_4.repo  = "csvtools";
-  inputs.src-csvtools-0_1_4.dir   = "";
   inputs.src-csvtools-0_1_4.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
