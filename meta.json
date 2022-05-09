@@ -7,7 +7,7 @@
   "license": "Apache License 2.0",
   "web": "https://github.com/andreaferretti/csvtools",
   "refs": [
-    "fatal: unable to access 'https://github.com/andreaferretti/csvtools/': SSL connection timeout",
+    "fatal: unable to access 'https://github.com/andreaferretti/csvtools/': Could not resolve host: github.com",
     ""
   ],
   "heads": []
