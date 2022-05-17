@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "0_1_0",
-        "lastModified": 1652367050,
-        "narHash": "sha256-5ixO1rYAx2UUGly/pT6fSfaTw8lZg5zwTWsc3O5VS1o=",
+        "lastModified": 1652390967,
+        "narHash": "sha256-yXXjCZPAVxhNxpE3dvPFc5tHV1jcLzFizF/sxVFY7ak=",
         "owner": "nim-nix-pkgs",
         "repo": "csvtools",
-        "rev": "ce835eccf7d4e6bac9b52ce22ec053527c102c15",
+        "rev": "3c36bc776473cd9a4a6ec61d8906668edec94c86",
         "type": "github"
       },
       "original": {
@@ -39,11 +39,11 @@
       },
       "locked": {
         "dir": "0_1_1",
-        "lastModified": 1652367050,
-        "narHash": "sha256-5ixO1rYAx2UUGly/pT6fSfaTw8lZg5zwTWsc3O5VS1o=",
+        "lastModified": 1652390967,
+        "narHash": "sha256-yXXjCZPAVxhNxpE3dvPFc5tHV1jcLzFizF/sxVFY7ak=",
         "owner": "nim-nix-pkgs",
         "repo": "csvtools",
-        "rev": "ce835eccf7d4e6bac9b52ce22ec053527c102c15",
+        "rev": "3c36bc776473cd9a4a6ec61d8906668edec94c86",
         "type": "github"
       },
       "original": {
@@ -66,11 +66,11 @@
       },
       "locked": {
         "dir": "0_1_2",
-        "lastModified": 1652367050,
-        "narHash": "sha256-5ixO1rYAx2UUGly/pT6fSfaTw8lZg5zwTWsc3O5VS1o=",
+        "lastModified": 1652390967,
+        "narHash": "sha256-yXXjCZPAVxhNxpE3dvPFc5tHV1jcLzFizF/sxVFY7ak=",
         "owner": "nim-nix-pkgs",
         "repo": "csvtools",
-        "rev": "ce835eccf7d4e6bac9b52ce22ec053527c102c15",
+        "rev": "3c36bc776473cd9a4a6ec61d8906668edec94c86",
         "type": "github"
       },
       "original": {
@@ -93,11 +93,11 @@
       },
       "locked": {
         "dir": "0_1_3",
-        "lastModified": 1652367050,
-        "narHash": "sha256-5ixO1rYAx2UUGly/pT6fSfaTw8lZg5zwTWsc3O5VS1o=",
+        "lastModified": 1652390967,
+        "narHash": "sha256-yXXjCZPAVxhNxpE3dvPFc5tHV1jcLzFizF/sxVFY7ak=",
         "owner": "nim-nix-pkgs",
         "repo": "csvtools",
-        "rev": "ce835eccf7d4e6bac9b52ce22ec053527c102c15",
+        "rev": "3c36bc776473cd9a4a6ec61d8906668edec94c86",
         "type": "github"
       },
       "original": {
@@ -120,11 +120,11 @@
       },
       "locked": {
         "dir": "0_1_4",
-        "lastModified": 1652367050,
-        "narHash": "sha256-5ixO1rYAx2UUGly/pT6fSfaTw8lZg5zwTWsc3O5VS1o=",
+        "lastModified": 1652390967,
+        "narHash": "sha256-yXXjCZPAVxhNxpE3dvPFc5tHV1jcLzFizF/sxVFY7ak=",
         "owner": "nim-nix-pkgs",
         "repo": "csvtools",
-        "rev": "ce835eccf7d4e6bac9b52ce22ec053527c102c15",
+        "rev": "3c36bc776473cd9a4a6ec61d8906668edec94c86",
         "type": "github"
       },
       "original": {
@@ -147,11 +147,11 @@
       },
       "locked": {
         "dir": "0_2_0",
-        "lastModified": 1652367050,
-        "narHash": "sha256-5ixO1rYAx2UUGly/pT6fSfaTw8lZg5zwTWsc3O5VS1o=",
+        "lastModified": 1652390967,
+        "narHash": "sha256-yXXjCZPAVxhNxpE3dvPFc5tHV1jcLzFizF/sxVFY7ak=",
         "owner": "nim-nix-pkgs",
         "repo": "csvtools",
-        "rev": "ce835eccf7d4e6bac9b52ce22ec053527c102c15",
+        "rev": "3c36bc776473cd9a4a6ec61d8906668edec94c86",
         "type": "github"
       },
       "original": {
@@ -174,11 +174,11 @@
       },
       "locked": {
         "dir": "0_2_1",
-        "lastModified": 1652367050,
-        "narHash": "sha256-5ixO1rYAx2UUGly/pT6fSfaTw8lZg5zwTWsc3O5VS1o=",
+        "lastModified": 1652390967,
+        "narHash": "sha256-yXXjCZPAVxhNxpE3dvPFc5tHV1jcLzFizF/sxVFY7ak=",
         "owner": "nim-nix-pkgs",
         "repo": "csvtools",
-        "rev": "ce835eccf7d4e6bac9b52ce22ec053527c102c15",
+        "rev": "3c36bc776473cd9a4a6ec61d8906668edec94c86",
         "type": "github"
       },
       "original": {
@@ -201,11 +201,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1652367050,
-        "narHash": "sha256-5ixO1rYAx2UUGly/pT6fSfaTw8lZg5zwTWsc3O5VS1o=",
+        "lastModified": 1652390967,
+        "narHash": "sha256-yXXjCZPAVxhNxpE3dvPFc5tHV1jcLzFizF/sxVFY7ak=",
         "owner": "nim-nix-pkgs",
         "repo": "csvtools",
-        "rev": "ce835eccf7d4e6bac9b52ce22ec053527c102c15",
+        "rev": "3c36bc776473cd9a4a6ec61d8906668edec94c86",
         "type": "github"
       },
       "original": {
